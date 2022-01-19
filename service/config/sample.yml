@@ -10,7 +10,7 @@ stripe:
     Example
 
 dynamoDbClientConfiguration:
-  region: us-west-2 # AWS Region
+  region: eu-2 # AWS Region
 
 dynamoDbTables:
   accounts:
